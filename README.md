@@ -1,0 +1,2 @@
+# ferreteria 
+Este código es una secuencia de comandos SQL que crea una base de datos llamada ferreteria y las tablas necesarias para registrar información sobre marcas de herramientas, tipos de herramientas, colaboradores, zonas, departamentos, ciudades, colonias, clientes, inventario y facturas.
